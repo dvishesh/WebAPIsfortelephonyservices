@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\EdX\Webserver -Productionversion1.0
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=Webserver
+--content-root=C:\Users\USER\Desktop\EdX\Webserver -Productionversion1.0
+--file=
